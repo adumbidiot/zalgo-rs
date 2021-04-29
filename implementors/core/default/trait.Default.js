@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["zalgo"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"zalgo/struct.Zalgoifier.html\" title=\"struct zalgo::Zalgoifier\">Zalgoifier</a>","synthetic":false,"types":["zalgo::Zalgoifier"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

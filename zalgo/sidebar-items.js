@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RandOrStatic",""],["ZalgoType",""]],"fn":[["is_zalgo_char",""],["zalgoify",""]],"mod":[["chars",""]],"struct":[["Zalgoifier",""]]});
